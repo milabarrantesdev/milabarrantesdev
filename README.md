@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Camila 👋
 
-<!--
-**milabarrantesdev/milabarrantesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ideas convertidas en código**
 
-Here are some ideas to get you started:
+Programadora y estudiante de Ingeniería de Software en la Universidad CENFOTEC. Desarrollo aplicaciones web funcionales y fáciles de usar, y aprendo rápido las herramientas que cada proyecto necesita.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías
+C# · Java · JavaScript · TypeScript · Angular · HTML · CSS · Git
+
+### Contacto
+- Portafolio: [milabarrantesdev.github.io](https://milabarrantesdev.github.io)
+- LinkedIn: [in/mila-barrantes](https://www.linkedin.com/in/mila-barrantes)
+- Correo: mila.barrantes.dev@gmail.com
