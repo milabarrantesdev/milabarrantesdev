@@ -8,6 +8,6 @@ Programadora y estudiante de Ingeniería de Software en la Universidad CENFOTEC.
 C# · Java · JavaScript · TypeScript · Angular · HTML · CSS · Git
 
 ### Contacto
-- Portafolio: [milabarrantesdev.github.io](https://milabarrantesdev.github.io)](https://milabarrantesdev.github.io/proyecto/
+- Portafolio: https://milabarrantesdev.github.io/proyecto/
 - LinkedIn: [in/mila-barrantes](https://www.linkedin.com/in/mila-barrantes)
 - Correo: mila.barrantes.dev@gmail.com
